@@ -1,0 +1,3 @@
+[submodule "go-redis"]
+	path = go-redis
+	url = git@github.com:sabzco/go-redis.git
